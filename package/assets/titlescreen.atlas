@@ -1,0 +1,82 @@
+
+titlescreen.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+border
+  rotate: false
+  xy: 2, 357
+  size: 863, 784
+  orig: 863, 784
+  offset: 0, 0
+  index: -1
+chain
+  rotate: false
+  xy: 1320, 197
+  size: 591, 323
+  orig: 591, 323
+  offset: 0, 0
+  index: -1
+ground
+  rotate: false
+  xy: 2, 2
+  size: 1316, 353
+  orig: 1316, 353
+  offset: 0, 0
+  index: -1
+magic
+  rotate: false
+  xy: 905, 1246
+  size: 992, 394
+  orig: 992, 394
+  offset: 0, 0
+  index: -1
+railway
+  rotate: false
+  xy: 905, 918
+  size: 1101, 326
+  orig: 1101, 326
+  offset: 0, 0
+  index: -1
+rit
+  rotate: false
+  xy: 867, 522
+  size: 992, 394
+  orig: 992, 394
+  offset: 0, 0
+  index: -1
+sky
+  rotate: false
+  xy: 2, 1143
+  size: 901, 901
+  orig: 901, 901
+  offset: 0, 0
+  index: -1
+trees
+  rotate: false
+  xy: 905, 1642
+  size: 1050, 402
+  orig: 1050, 402
+  offset: 0, 0
+  index: -1
+
+titlescreen2.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chase
+  rotate: false
+  xy: 2, 34
+  size: 843, 315
+  orig: 843, 315
+  offset: 0, 0
+  index: -1
+gang
+  rotate: false
+  xy: 847, 2
+  size: 728, 347
+  orig: 728, 347
+  offset: 0, 0
+  index: -1

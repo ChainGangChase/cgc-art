@@ -1,0 +1,41 @@
+
+credits.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cgc_logotype
+  rotate: false
+  xy: 2, 387
+  size: 647, 531
+  orig: 647, 531
+  offset: 0, 0
+  index: -1
+ftg_logo
+  rotate: false
+  xy: 651, 417
+  size: 500, 105
+  orig: 500, 105
+  offset: 0, 0
+  index: -1
+kickstarter-badge-funded
+  rotate: false
+  xy: 2, 2
+  size: 400, 383
+  orig: 400, 383
+  offset: 0, 0
+  index: -1
+magicspell
+  rotate: false
+  xy: 651, 524
+  size: 691, 394
+  orig: 691, 394
+  offset: 0, 0
+  index: -1
+ouya_logo_white
+  rotate: false
+  xy: 1344, 818
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1

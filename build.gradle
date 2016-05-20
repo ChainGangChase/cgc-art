@@ -1,7 +1,44 @@
 apply plugin: 'java'
 
 jar {
+	from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
     manifest {
         attributes 'Main-Class': 'com.percipient24.cgc.art.Textures'
     }
 }
+
+buildscript {
+	repositories {
+		mavenLocal()
+		mavenCentral()
+		maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+	}
+}
+
+allprojects {
+	ext {
+		gdxVersion = '1.9.3'
+	}
+
+	repositories {
+        mavenLocal()
+        mavenCentral()
+        maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+        maven { url "https://oss.sonatype.org/content/repositories/releases/" }
+	}
+
+	dependencies {
+        compile "com.badlogicgames.gdx:gdx-tools:$gdxVersion"
+	}
+}
+
+task pack << {
+	javaexec {
+		main = "-jar"
+		args = [
+			"build/libs/art.jar"
+		]
+	}
+}
+
+build.finalizedBy(pack)
