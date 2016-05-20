@@ -6,6 +6,7 @@ This repo contains the source art, packed textures, and atlas data files for the
 ```
 /
 assets/.............source art, files follow naming convention for frames
+gradle/wrapper/...............properties and .jar file for gradle wrapper
 package/assets/...........................built textures and .atlas files
 src/.../art/Textures.java............................performs the packing
 build.gradle.........................gradle build tasks and configuration
