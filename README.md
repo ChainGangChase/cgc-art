@@ -1,6 +1,6 @@
 # art
 _____
-This repo contains the source art, packed textures, and atlas data files for the game. The [ChainGangChase/game](https://github.com/ChainGangChase/game) project build scripts will reference the files from `/package/assets` when building the game.
+This repo contains the source art, packed sprites, and .atlas data files for the game. The [ChainGangChase/game](https://github.com/ChainGangChase/game) project build scripts will reference the files from `/package/assets` when building the game.
 
 ### Project Overview
 ```
@@ -31,4 +31,6 @@ On the commande line working in the repository root, run `./gradlew build` (mac 
 On the commande line working in the repository root, run `gradle build` - then sit back and watch the texture packer do its thing.
 
 ### Changelog
-The first real release version is coming soon (once I iron out the build process in the game repo).
+*v0.1.0* **prerelease**
+- first version!
+- package.json
