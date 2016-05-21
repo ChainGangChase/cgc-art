@@ -1,4 +1,4 @@
-# art
+# cgc-art
 _____
 This repo contains the source art, packed sprites, and .atlas data files for the game. The [ChainGangChase/game](https://github.com/ChainGangChase/game) project build scripts will reference the files from `/package/assets` when building the game.
 
@@ -12,6 +12,7 @@ src/.../art/Textures.java............................performs the packing
 build.gradle.........................gradle build tasks and configuration
 gradlew.....................................gradle wrapper for Mac, Linux
 gradlew.bat....................................gradle wrapper for Windows
+package.json.........................................for import using npm
 ```
 
 ### Installation
@@ -31,6 +32,6 @@ On the commande line working in the repository root, run `./gradlew build` (mac 
 On the commande line working in the repository root, run `gradle build` - then sit back and watch the texture packer do its thing.
 
 ### Changelog
-*v0.1.0* **prerelease**
+**v0.1.0**
 - first version!
 - package.json
