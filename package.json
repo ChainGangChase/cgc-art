@@ -2,7 +2,9 @@
   "name": "cgc-art",
   "version": "0.1.0",
   "description": "Packed sprites and .atlas data files for ChainGangChase/game.",
-  "main": "index.js",
+  "files": [
+    "package"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ChainGangChase/cgc-art.git"
