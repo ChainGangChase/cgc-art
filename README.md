@@ -32,6 +32,8 @@ On the commande line working in the repository root, run `./gradlew build` (mac 
 On the commande line working in the repository root, run `gradle build` - then sit back and watch the texture packer do its thing.
 
 ### Changelog
+**v0.2.0**
+- adds coin art/animation
 **v0.1.0**
 - first version!
 - package.json

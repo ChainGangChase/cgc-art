@@ -36,7 +36,7 @@ task pack << {
 	javaexec {
 		main = "-jar"
 		args = [
-			"build/libs/art.jar"
+			"build/libs/cgc-art.jar"
 		]
 	}
 }

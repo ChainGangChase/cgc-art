@@ -1,6 +1,6 @@
 {
   "name": "cgc-art",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Packed sprites and .atlas data files for ChainGangChase/game.",
   "files": [
     "package"
