@@ -13,3952 +13,3972 @@ booststeelhorse
   index: -1
 bullet
   rotate: false
-  xy: 504, 34
+  xy: 1924, 1199
   size: 51, 51
   orig: 51, 51
   offset: 0, 0
   index: -1
 cgcfont
   rotate: false
-  xy: 732, 1144
+  xy: 732, 662
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: 0
 cgctitlefont
   rotate: false
-  xy: 732, 630
+  xy: 732, 148
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: 0
 chain
   rotate: false
-  xy: 1214, 608
+  xy: 2, 2
   size: 30, 20
   orig: 30, 20
   offset: 0, 0
   index: 0
 chain
   rotate: false
-  xy: 1214, 586
+  xy: 34, 2
   size: 30, 20
   orig: 30, 20
   offset: 0, 0
   index: 1
 chain
   rotate: false
-  xy: 504, 12
+  xy: 66, 2
   size: 30, 20
   orig: 30, 20
   offset: 0, 0
   index: 2
 chain
   rotate: false
-  xy: 557, 65
+  xy: 1214, 126
   size: 30, 20
   orig: 30, 20
   offset: 0, 0
   index: 3
 chain
   rotate: false
-  xy: 1410, 502
+  xy: 1214, 104
   size: 30, 20
   orig: 30, 20
   offset: 0, 0
   index: 4
 chain
   rotate: false
-  xy: 1460, 552
+  xy: 1214, 82
   size: 30, 20
   orig: 30, 20
   offset: 0, 0
   index: 5
 chain
   rotate: false
-  xy: 656, 476
+  xy: 98, 2
   size: 30, 20
   orig: 30, 20
   offset: 0, 0
   index: 6
 chain
   rotate: false
-  xy: 656, 454
+  xy: 1746, 193
   size: 30, 20
   orig: 30, 20
   offset: 0, 0
   index: 7
+characterSelect
+  rotate: false
+  xy: 2, 1566
+  size: 1920, 480
+  orig: 1920, 480
+  offset: 0, 0
+  index: -1
 crashsteelhorse
   rotate: false
-  xy: 1800, 1456
+  xy: 1800, 778
   size: 100, 200
   orig: 100, 200
   offset: 0, 0
   index: -1
 explosion
   rotate: false
-  xy: 1648, 958
+  xy: 1800, 980
   size: 193, 194
   orig: 193, 194
   offset: 0, 0
   index: -1
 fence
   rotate: false
-  xy: 2, 6
+  xy: 102, 52
   size: 48, 8
   orig: 48, 8
   offset: 0, 0
   index: 0
 fence
   rotate: false
-  xy: 2, 6
+  xy: 102, 52
   size: 48, 8
   orig: 48, 8
   offset: 0, 0
   index: 1
 gate
   rotate: false
-  xy: 2, 408
+  xy: 1648, 117
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gate
   rotate: false
-  xy: 1924, 1748
+  xy: 1800, 680
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gate
   rotate: false
-  xy: 1800, 1358
+  xy: 1924, 1546
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gate
   rotate: false
-  xy: 1648, 658
+  xy: 1800, 582
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gate
   rotate: false
-  xy: 2, 310
+  xy: 1924, 1448
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gate
   rotate: false
-  xy: 1800, 1260
+  xy: 1800, 484
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gate
   rotate: false
-  xy: 2, 212
+  xy: 1924, 1350
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gate
   rotate: false
-  xy: 1800, 1162
+  xy: 1800, 386
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 guardtower
   rotate: false
-  xy: 2, 114
+  xy: 1924, 1252
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 guardtower
   rotate: false
-  xy: 2, 16
+  xy: 1800, 288
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 helicopter
   rotate: false
-  xy: 202, 1128
+  xy: 202, 646
   size: 528, 528
   orig: 528, 528
   offset: 0, 0
   index: 0
 helicopter
   rotate: false
-  xy: 202, 598
+  xy: 202, 116
   size: 528, 528
   orig: 528, 528
   offset: 0, 0
   index: 1
 hwall
   rotate: false
-  xy: 2, 1658
+  xy: 2, 1176
   size: 1920, 96
   orig: 1920, 96
   offset: 0, 0
   index: -1
 jeep
   rotate: false
-  xy: 1648, 1406
+  xy: 1648, 924
   size: 150, 250
   orig: 150, 250
   offset: 0, 0
   index: 0
 jeep
   rotate: false
-  xy: 504, 292
+  xy: 1648, 672
   size: 150, 250
   orig: 150, 250
   offset: 0, 0
   index: 1
 jeep
   rotate: false
-  xy: 1648, 1154
+  xy: 1648, 420
   size: 150, 250
   orig: 150, 250
   offset: 0, 0
   index: 2
 optionsconvict
   rotate: false
-  xy: 1750, 860
+  xy: 1902, 882
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 optionscop
   rotate: false
-  xy: 1750, 762
+  xy: 1902, 784
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 pallbearer
   rotate: false
-  xy: 504, 87
+  xy: 1648, 215
   size: 150, 203
   orig: 150, 203
   offset: 0, 0
   index: -1
 post
   rotate: false
-  xy: 1214, 574
+  xy: 704, 104
   size: 10, 10
   orig: 10, 10
   offset: 0, 0
   index: 0
 post
   rotate: false
-  xy: 1214, 574
-  size: 10, 10
-  orig: 10, 10
-  offset: 0, 0
-  index: 2
-post
-  rotate: false
-  xy: 1214, 574
+  xy: 704, 104
   size: 10, 10
   orig: 10, 10
   offset: 0, 0
   index: 1
+post
+  rotate: false
+  xy: 704, 104
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: 2
 selector
   rotate: false
-  xy: 656, 498
+  xy: 1898, 248
   size: 44, 44
   orig: 44, 44
   offset: 0, 0
   index: -1
 sensor
   rotate: false
-  xy: 1924, 1650
+  xy: 1800, 190
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 sensor
   rotate: false
-  xy: 1648, 560
+  xy: 1648, 19
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 sensor
   rotate: false
-  xy: 1902, 1552
+  xy: 1746, 92
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 sensor
   rotate: false
-  xy: 1902, 1454
+  xy: 1844, 92
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 sheriff
   rotate: false
-  xy: 1898, 1356
+  xy: 1902, 686
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sliderbar
   rotate: false
-  xy: 102, 544
+  xy: 102, 62
   size: 600, 52
   orig: 600, 52
   offset: 0, 0
   index: -1
 steelhorse
   rotate: false
-  xy: 1648, 756
+  xy: 1924, 1644
   size: 100, 200
   orig: 100, 200
   offset: 0, 0
   index: -1
 tank
   rotate: false
-  xy: 1246, 1116
+  xy: 1246, 634
   size: 400, 540
   orig: 400, 540
   offset: 0, 0
   index: 0
 tank
   rotate: false
-  xy: 1246, 574
+  xy: 1246, 92
   size: 400, 540
   orig: 400, 540
   offset: 0, 0
   index: 1
-tank
-  rotate: false
-  xy: 102, 2
-  size: 400, 540
-  orig: 400, 540
-  offset: 0, 0
-  index: 2
 tankshell
   rotate: false
-  xy: 1410, 524
+  xy: 1746, 42
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 track
   rotate: false
-  xy: 2, 1902
+  xy: 2, 1420
   size: 1920, 144
   orig: 1920, 144
   offset: 0, 0
   index: 0
 track
   rotate: false
-  xy: 2, 1756
+  xy: 2, 1274
   size: 1920, 144
   orig: 1920, 144
   offset: 0, 0
   index: 1
 train
   rotate: false
-  xy: 732, 484
+  xy: 732, 2
   size: 480, 144
   orig: 480, 144
   offset: 0, 0
   index: 0
 train
   rotate: false
-  xy: 732, 484
+  xy: 732, 2
   size: 480, 144
   orig: 480, 144
   offset: 0, 0
   index: 1
 train
   rotate: false
-  xy: 732, 484
+  xy: 732, 2
   size: 480, 144
   orig: 480, 144
   offset: 0, 0
   index: 2
 tree
   rotate: false
-  xy: 1898, 1258
+  xy: 1898, 588
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 tree
   rotate: false
-  xy: 1898, 1160
+  xy: 1898, 490
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 tree
   rotate: false
-  xy: 1214, 476
+  xy: 1898, 392
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 tree
   rotate: false
-  xy: 1312, 476
+  xy: 1898, 294
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 vwall
   rotate: false
-  xy: 2, 506
+  xy: 2, 24
   size: 98, 1150
   orig: 98, 1150
   offset: 0, 0
   index: 1
 vwall
   rotate: false
-  xy: 102, 598
+  xy: 102, 116
   size: 98, 1058
   orig: 98, 1058
   offset: 0, 0
   index: 0
 
 main2.png
+size: 512,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tank
+  rotate: false
+  xy: 2, 2
+  size: 400, 540
+  orig: 400, 540
+  offset: 0, 0
+  index: 2
+
+main3.png
 size: 2048,2048
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 gameanimations/coin
   rotate: false
-  xy: 570, 786
+  xy: 2, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coin
   rotate: false
-  xy: 668, 786
+  xy: 100, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/coin
   rotate: false
-  xy: 712, 1922
+  xy: 198, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/coin
   rotate: false
-  xy: 712, 1824
+  xy: 296, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/coin
   rotate: false
-  xy: 712, 1726
+  xy: 394, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/coin
   rotate: false
-  xy: 712, 1628
+  xy: 492, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/condiehigh0
   rotate: false
-  xy: 712, 1530
+  xy: 590, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/condielow0
   rotate: false
-  xy: 712, 1530
+  xy: 590, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/condiemid0
   rotate: false
-  xy: 712, 1530
+  xy: 590, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/copdiehigh0
   rotate: false
-  xy: 712, 1530
+  xy: 590, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/copdielow0
   rotate: false
-  xy: 712, 1530
+  xy: 590, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/copdiemid0
   rotate: false
-  xy: 712, 1530
+  xy: 590, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/condiehigh0
   rotate: false
-  xy: 712, 1432
+  xy: 688, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/condielow0
   rotate: false
-  xy: 712, 1432
+  xy: 688, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/condiemid0
   rotate: false
-  xy: 712, 1432
+  xy: 688, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/copdiehigh0
   rotate: false
-  xy: 712, 1432
+  xy: 688, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/copdielow0
   rotate: false
-  xy: 712, 1432
+  xy: 688, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/copdiemid0
   rotate: false
-  xy: 712, 1432
+  xy: 688, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/conhit0
   rotate: false
-  xy: 712, 1334
+  xy: 786, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/cophit0
   rotate: false
-  xy: 712, 1334
+  xy: 786, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conjump0
   rotate: false
-  xy: 712, 1236
+  xy: 788, 952
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/copjump0
   rotate: false
-  xy: 712, 1236
+  xy: 788, 952
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conpunchhigh0
   rotate: false
-  xy: 2, 1878
+  xy: 2, 810
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 0
 gameanimations/conpunchhigh0
   rotate: false
-  xy: 2, 1736
+  xy: 2, 668
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 1
 gameanimations/conpunchhigh0
   rotate: false
-  xy: 2, 1736
+  xy: 2, 668
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 2
 gameanimations/conpunchhigh0
   rotate: false
-  xy: 2, 1736
+  xy: 2, 668
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 3
 gameanimations/conpunchhigh0
   rotate: false
-  xy: 2, 1594
+  xy: 2, 526
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 4
 gameanimations/conpunchhigh0
   rotate: false
-  xy: 2, 1452
+  xy: 2, 384
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 5
 gameanimations/conpunchhigh1
   rotate: false
-  xy: 144, 1594
+  xy: 286, 242
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 0
 gameanimations/conpunchhigh1
   rotate: false
-  xy: 144, 1452
+  xy: 286, 100
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 1
 gameanimations/conpunchhigh1
   rotate: false
-  xy: 144, 1452
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: 3
-gameanimations/conpunchhigh1
-  rotate: false
-  xy: 144, 1452
+  xy: 286, 100
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 2
 gameanimations/conpunchhigh1
   rotate: false
-  xy: 144, 1310
+  xy: 286, 100
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: 3
+gameanimations/conpunchhigh1
+  rotate: false
+  xy: 428, 810
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 4
 gameanimations/conpunchhigh1
   rotate: false
-  xy: 144, 1168
+  xy: 428, 668
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 5
 gameanimations/conpunchhigh10
   rotate: false
-  xy: 2, 1310
+  xy: 2, 242
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 0
 gameanimations/conpunchhigh10
   rotate: false
-  xy: 2, 1168
+  xy: 2, 100
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 1
 gameanimations/conpunchhigh10
   rotate: false
-  xy: 2, 1168
+  xy: 2, 100
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 3
 gameanimations/conpunchhigh10
   rotate: false
-  xy: 2, 1168
+  xy: 2, 100
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 2
 gameanimations/conpunchhigh10
   rotate: false
-  xy: 2, 1026
+  xy: 144, 810
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 4
 gameanimations/conpunchhigh10
   rotate: false
-  xy: 2, 884
+  xy: 144, 668
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 5
 gameanimations/conpunchhigh11
   rotate: false
-  xy: 2, 742
+  xy: 144, 526
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 0
 gameanimations/conpunchhigh11
   rotate: false
-  xy: 2, 600
+  xy: 144, 384
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 1
 gameanimations/conpunchhigh11
   rotate: false
-  xy: 2, 600
+  xy: 144, 384
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 3
 gameanimations/conpunchhigh11
   rotate: false
-  xy: 2, 600
+  xy: 144, 384
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 2
 gameanimations/conpunchhigh11
   rotate: false
-  xy: 2, 458
+  xy: 144, 242
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 4
 gameanimations/conpunchhigh11
   rotate: false
-  xy: 2, 316
+  xy: 144, 100
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 5
 gameanimations/conpunchhigh12
   rotate: false
-  xy: 2, 174
+  xy: 286, 810
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 0
 gameanimations/conpunchhigh12
   rotate: false
-  xy: 2, 32
+  xy: 286, 668
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 1
 gameanimations/conpunchhigh12
   rotate: false
-  xy: 2, 32
+  xy: 286, 668
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 2
 gameanimations/conpunchhigh12
   rotate: false
-  xy: 2, 32
+  xy: 286, 668
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 3
 gameanimations/conpunchhigh12
   rotate: false
-  xy: 144, 1878
+  xy: 286, 526
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 4
 gameanimations/conpunchhigh12
   rotate: false
-  xy: 144, 1736
+  xy: 286, 384
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 5
 gameanimations/conpunchhigh2
   rotate: false
-  xy: 144, 1026
+  xy: 428, 526
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 0
 gameanimations/conpunchhigh2
   rotate: false
-  xy: 144, 884
+  xy: 428, 384
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 1
 gameanimations/conpunchhigh2
   rotate: false
-  xy: 144, 884
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: 3
-gameanimations/conpunchhigh2
-  rotate: false
-  xy: 144, 884
+  xy: 428, 384
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 2
 gameanimations/conpunchhigh2
   rotate: false
-  xy: 144, 742
+  xy: 428, 384
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: 3
+gameanimations/conpunchhigh2
+  rotate: false
+  xy: 428, 242
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 4
 gameanimations/conpunchhigh2
   rotate: false
-  xy: 144, 600
+  xy: 428, 100
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 5
 gameanimations/conpunchhigh3
   rotate: false
-  xy: 144, 458
+  xy: 570, 810
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 0
 gameanimations/conpunchhigh3
   rotate: false
-  xy: 144, 316
+  xy: 570, 668
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 1
 gameanimations/conpunchhigh3
   rotate: false
-  xy: 144, 316
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: 2
-gameanimations/conpunchhigh3
-  rotate: false
-  xy: 144, 316
+  xy: 570, 668
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 3
 gameanimations/conpunchhigh3
   rotate: false
-  xy: 144, 174
+  xy: 570, 668
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: 2
+gameanimations/conpunchhigh3
+  rotate: false
+  xy: 570, 526
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 4
 gameanimations/conpunchhigh3
   rotate: false
-  xy: 144, 32
+  xy: 570, 384
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 5
 gameanimations/conpunchhigh4
   rotate: false
-  xy: 286, 1878
+  xy: 570, 242
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 0
 gameanimations/conpunchhigh4
   rotate: false
-  xy: 286, 1736
+  xy: 570, 100
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 1
 gameanimations/conpunchhigh4
   rotate: false
-  xy: 286, 1736
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: 3
-gameanimations/conpunchhigh4
-  rotate: false
-  xy: 286, 1736
+  xy: 570, 100
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 2
 gameanimations/conpunchhigh4
   rotate: false
-  xy: 286, 1594
+  xy: 570, 100
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: 3
+gameanimations/conpunchhigh4
+  rotate: false
+  xy: 712, 810
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 4
 gameanimations/conpunchhigh4
   rotate: false
-  xy: 286, 1452
+  xy: 712, 668
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 5
 gameanimations/conpunchhigh5
   rotate: false
-  xy: 286, 1310
+  xy: 712, 526
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 0
 gameanimations/conpunchhigh5
   rotate: false
-  xy: 286, 1168
+  xy: 712, 384
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 1
 gameanimations/conpunchhigh5
   rotate: false
-  xy: 286, 1168
+  xy: 712, 384
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 3
 gameanimations/conpunchhigh5
   rotate: false
-  xy: 286, 1168
+  xy: 712, 384
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 2
 gameanimations/conpunchhigh5
   rotate: false
-  xy: 286, 1026
+  xy: 712, 242
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 4
 gameanimations/conpunchhigh5
   rotate: false
-  xy: 286, 884
+  xy: 712, 100
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 5
 gameanimations/conpunchhigh6
   rotate: false
-  xy: 286, 742
+  xy: 788, 1902
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 0
 gameanimations/conpunchhigh6
   rotate: false
-  xy: 286, 600
+  xy: 788, 1760
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 1
 gameanimations/conpunchhigh6
   rotate: false
-  xy: 286, 600
+  xy: 788, 1760
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 3
 gameanimations/conpunchhigh6
   rotate: false
-  xy: 286, 600
+  xy: 788, 1760
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 2
 gameanimations/conpunchhigh6
   rotate: false
-  xy: 286, 458
+  xy: 788, 1618
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 4
 gameanimations/conpunchhigh6
   rotate: false
-  xy: 286, 316
+  xy: 788, 1476
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 5
 gameanimations/conpunchhigh7
   rotate: false
-  xy: 286, 174
+  xy: 788, 1334
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 0
 gameanimations/conpunchhigh7
   rotate: false
-  xy: 286, 32
+  xy: 788, 1192
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 1
 gameanimations/conpunchhigh7
   rotate: false
-  xy: 286, 32
+  xy: 788, 1192
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 2
 gameanimations/conpunchhigh7
   rotate: false
-  xy: 286, 32
+  xy: 788, 1192
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 3
 gameanimations/conpunchhigh7
   rotate: false
-  xy: 428, 1878
+  xy: 788, 1050
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 4
 gameanimations/conpunchhigh7
   rotate: false
-  xy: 428, 1736
+  xy: 854, 810
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 5
 gameanimations/conpunchhigh8
   rotate: false
-  xy: 428, 1594
+  xy: 854, 668
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 0
 gameanimations/conpunchhigh8
   rotate: false
-  xy: 428, 1452
+  xy: 854, 526
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 1
 gameanimations/conpunchhigh8
   rotate: false
-  xy: 428, 1452
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: 3
-gameanimations/conpunchhigh8
-  rotate: false
-  xy: 428, 1452
+  xy: 854, 526
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 2
 gameanimations/conpunchhigh8
   rotate: false
-  xy: 428, 1310
+  xy: 854, 526
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: 3
+gameanimations/conpunchhigh8
+  rotate: false
+  xy: 854, 384
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 4
 gameanimations/conpunchhigh8
   rotate: false
-  xy: 428, 1168
+  xy: 854, 242
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 5
 gameanimations/conpunchhigh9
   rotate: false
-  xy: 428, 1026
+  xy: 854, 100
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 0
 gameanimations/conpunchhigh9
   rotate: false
-  xy: 428, 884
+  xy: 930, 1902
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 1
 gameanimations/conpunchhigh9
   rotate: false
-  xy: 428, 884
+  xy: 930, 1902
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 3
 gameanimations/conpunchhigh9
   rotate: false
-  xy: 428, 884
+  xy: 930, 1902
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 2
 gameanimations/conpunchhigh9
   rotate: false
-  xy: 428, 742
+  xy: 930, 1760
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 4
 gameanimations/conpunchhigh9
   rotate: false
-  xy: 428, 600
+  xy: 930, 1618
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 5
 gameanimations/conpunchlow0
   rotate: false
-  xy: 428, 458
+  xy: 930, 1476
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 0
 gameanimations/conpunchlow0
   rotate: false
-  xy: 428, 316
+  xy: 930, 1334
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 1
 gameanimations/conpunchlow0
   rotate: false
-  xy: 428, 174
+  xy: 930, 1192
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 2
 gameanimations/conpunchlow0
   rotate: false
-  xy: 428, 32
+  xy: 930, 1050
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 3
 gameanimations/conpunchlow0
   rotate: false
-  xy: 570, 1878
+  xy: 996, 810
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 4
 gameanimations/conpunchlow0
   rotate: false
-  xy: 570, 1736
+  xy: 996, 668
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 5
 gameanimations/conpunchmid0
   rotate: false
-  xy: 570, 1594
+  xy: 996, 526
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 0
 gameanimations/conpunchmid0
   rotate: false
-  xy: 570, 1452
+  xy: 996, 384
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 1
 gameanimations/conpunchmid0
   rotate: false
-  xy: 570, 1310
+  xy: 996, 242
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 2
 gameanimations/conpunchmid0
   rotate: false
-  xy: 570, 1168
+  xy: 996, 100
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 3
 gameanimations/conpunchmid0
   rotate: false
-  xy: 570, 1026
+  xy: 1072, 1902
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 4
 gameanimations/conpunchmid0
   rotate: false
-  xy: 570, 884
+  xy: 1072, 1760
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: 5
 gameanimations/conrunhigh0
   rotate: false
-  xy: 766, 1138
+  xy: 886, 952
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh0
   rotate: false
-  xy: 766, 1138
+  xy: 886, 952
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh0
   rotate: false
-  xy: 810, 1922
+  xy: 884, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/coprunhigh0
   rotate: false
-  xy: 810, 1922
+  xy: 884, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/conrunhigh0
   rotate: false
-  xy: 810, 1824
+  xy: 982, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/coprunhigh0
   rotate: false
-  xy: 810, 1824
+  xy: 982, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/conrunhigh0
   rotate: false
-  xy: 810, 1726
+  xy: 984, 952
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/constandhigh0
   rotate: false
-  xy: 810, 1726
+  xy: 984, 952
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh0
   rotate: false
-  xy: 810, 1726
+  xy: 984, 952
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/copstandhigh0
   rotate: false
-  xy: 810, 1726
+  xy: 984, 952
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh0
   rotate: false
-  xy: 810, 1628
+  xy: 1080, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/coprunhigh0
   rotate: false
-  xy: 810, 1628
+  xy: 1080, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/conrunhigh0
   rotate: false
-  xy: 810, 1530
+  xy: 1072, 1662
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/coprunhigh0
   rotate: false
-  xy: 810, 1530
+  xy: 1072, 1662
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/conrunhigh0
   rotate: false
-  xy: 810, 1432
+  xy: 1072, 1564
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/coprunhigh0
   rotate: false
-  xy: 810, 1432
+  xy: 1072, 1564
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/conrunhigh0
   rotate: false
-  xy: 810, 1334
+  xy: 1072, 1466
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/coprunhigh0
   rotate: false
-  xy: 810, 1334
+  xy: 1072, 1466
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/conrunhigh1
   rotate: false
-  xy: 1104, 1432
+  xy: 1138, 780
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh1
   rotate: false
-  xy: 1104, 1432
+  xy: 1138, 780
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh1
   rotate: false
-  xy: 1104, 1334
+  xy: 1138, 682
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/coprunhigh1
   rotate: false
-  xy: 1104, 1334
+  xy: 1138, 682
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/conrunhigh1
   rotate: false
-  xy: 1104, 1236
+  xy: 1138, 584
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/coprunhigh1
   rotate: false
-  xy: 1104, 1236
+  xy: 1138, 584
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/conrunhigh1
   rotate: false
-  xy: 1158, 1138
+  xy: 1138, 486
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/constandhigh1
   rotate: false
-  xy: 1158, 1138
-  size: 96, 96
-  orig: 96, 96
-  offset: 0, 0
-  index: 0
-gameanimations/constandhigh1
-  rotate: false
-  xy: 1158, 1138
+  xy: 1138, 486
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 8
+gameanimations/constandhigh1
+  rotate: false
+  xy: 1138, 486
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 0
 gameanimations/coprunhigh1
   rotate: false
-  xy: 1158, 1138
+  xy: 1138, 486
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/copstandhigh1
   rotate: false
-  xy: 1158, 1138
+  xy: 1138, 486
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh1
   rotate: false
-  xy: 1202, 1922
+  xy: 1138, 388
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/coprunhigh1
   rotate: false
-  xy: 1202, 1922
+  xy: 1138, 388
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/conrunhigh1
   rotate: false
-  xy: 1202, 1824
+  xy: 1138, 290
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/coprunhigh1
   rotate: false
-  xy: 1202, 1824
+  xy: 1138, 290
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/conrunhigh1
   rotate: false
-  xy: 1202, 1726
+  xy: 1138, 192
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/coprunhigh1
   rotate: false
-  xy: 1202, 1726
+  xy: 1138, 192
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/conrunhigh1
   rotate: false
-  xy: 1202, 1628
+  xy: 1178, 94
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/coprunhigh1
   rotate: false
-  xy: 1202, 1628
+  xy: 1178, 94
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/conrunhigh10
   rotate: false
-  xy: 810, 1236
+  xy: 1072, 1368
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh10
   rotate: false
-  xy: 864, 1138
+  xy: 1072, 1270
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/conrunhigh10
   rotate: false
-  xy: 908, 1922
+  xy: 1072, 1172
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/conrunhigh10
   rotate: false
-  xy: 908, 1824
+  xy: 1072, 1074
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/constandhigh10
   rotate: false
-  xy: 908, 1824
+  xy: 1072, 1074
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh10
   rotate: false
-  xy: 908, 1726
+  xy: 1082, 976
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/conrunhigh10
   rotate: false
-  xy: 908, 1628
+  xy: 1170, 1662
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/conrunhigh10
   rotate: false
-  xy: 908, 1530
+  xy: 1214, 1946
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/conrunhigh10
   rotate: false
-  xy: 908, 1432
+  xy: 1214, 1848
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/conrunhigh11
   rotate: false
-  xy: 908, 1334
+  xy: 1170, 1564
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh11
   rotate: false
-  xy: 908, 1236
+  xy: 1170, 1466
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/conrunhigh11
   rotate: false
-  xy: 962, 1138
+  xy: 1170, 1368
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/conrunhigh11
   rotate: false
-  xy: 1006, 1922
+  xy: 1170, 1270
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/constandhigh11
   rotate: false
-  xy: 1006, 1922
+  xy: 1170, 1270
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh11
   rotate: false
-  xy: 1006, 1824
+  xy: 1170, 1172
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/conrunhigh11
   rotate: false
-  xy: 1006, 1726
+  xy: 1170, 1074
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/conrunhigh11
   rotate: false
-  xy: 1006, 1628
+  xy: 1138, 878
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/conrunhigh11
   rotate: false
-  xy: 1006, 1530
+  xy: 1180, 976
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/conrunhigh11
   rotate: false
-  xy: 1006, 1432
+  xy: 1268, 1750
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 8
 gameanimations/coprunhigh11
   rotate: false
-  xy: 1006, 1432
+  xy: 1268, 1750
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 8
 gameanimations/coprunhigh11
   rotate: false
-  xy: 1006, 1432
+  xy: 1268, 1750
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/copstandhigh11
   rotate: false
-  xy: 1006, 1432
+  xy: 1268, 1750
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh12
   rotate: false
-  xy: 1006, 1334
+  xy: 1312, 1946
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh12
   rotate: false
-  xy: 1006, 1334
+  xy: 1312, 1946
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh12
   rotate: false
-  xy: 1006, 1236
+  xy: 1312, 1848
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/coprunhigh12
   rotate: false
-  xy: 1006, 1236
+  xy: 1312, 1848
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/conrunhigh12
   rotate: false
-  xy: 1060, 1138
+  xy: 1268, 1652
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/coprunhigh12
   rotate: false
-  xy: 1060, 1138
+  xy: 1268, 1652
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/conrunhigh12
   rotate: false
-  xy: 1104, 1922
+  xy: 1268, 1554
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/constandhigh12
   rotate: false
-  xy: 1104, 1922
+  xy: 1268, 1554
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh12
   rotate: false
-  xy: 1104, 1922
+  xy: 1268, 1554
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/copstandhigh12
   rotate: false
-  xy: 1104, 1922
+  xy: 1268, 1554
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh12
   rotate: false
-  xy: 1104, 1824
+  xy: 1268, 1456
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/coprunhigh12
   rotate: false
-  xy: 1104, 1824
+  xy: 1268, 1456
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/conrunhigh12
   rotate: false
-  xy: 1104, 1726
+  xy: 1268, 1358
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/coprunhigh12
   rotate: false
-  xy: 1104, 1726
+  xy: 1268, 1358
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/conrunhigh12
   rotate: false
-  xy: 1104, 1628
+  xy: 1268, 1260
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/coprunhigh12
   rotate: false
-  xy: 1104, 1628
+  xy: 1268, 1260
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/conrunhigh12
   rotate: false
-  xy: 1104, 1530
+  xy: 1268, 1162
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/coprunhigh12
   rotate: false
-  xy: 1104, 1530
+  xy: 1268, 1162
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/conrunhigh2
   rotate: false
-  xy: 1202, 1530
+  xy: 1236, 878
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh2
   rotate: false
-  xy: 1202, 1530
+  xy: 1236, 878
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh2
   rotate: false
-  xy: 1202, 1432
+  xy: 1278, 1064
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/coprunhigh2
   rotate: false
-  xy: 1202, 1432
+  xy: 1278, 1064
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/conrunhigh2
   rotate: false
-  xy: 1202, 1334
+  xy: 1366, 1750
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/coprunhigh2
   rotate: false
-  xy: 1202, 1334
+  xy: 1366, 1750
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/conrunhigh2
   rotate: false
-  xy: 1202, 1236
+  xy: 1410, 1946
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/constandhigh2
   rotate: false
-  xy: 1202, 1236
+  xy: 1410, 1946
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh2
   rotate: false
-  xy: 1202, 1236
+  xy: 1410, 1946
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/copstandhigh2
   rotate: false
-  xy: 1202, 1236
+  xy: 1410, 1946
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh2
   rotate: false
-  xy: 1256, 1138
+  xy: 1410, 1848
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/coprunhigh2
   rotate: false
-  xy: 1256, 1138
+  xy: 1410, 1848
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/conrunhigh2
   rotate: false
-  xy: 1300, 1922
+  xy: 1366, 1652
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/coprunhigh2
   rotate: false
-  xy: 1300, 1922
+  xy: 1366, 1652
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/conrunhigh2
   rotate: false
-  xy: 1300, 1824
+  xy: 1366, 1554
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/coprunhigh2
   rotate: false
-  xy: 1300, 1824
+  xy: 1366, 1554
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/conrunhigh2
   rotate: false
-  xy: 1300, 1726
+  xy: 1366, 1456
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/coprunhigh2
   rotate: false
-  xy: 1300, 1726
+  xy: 1366, 1456
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/conrunhigh3
   rotate: false
-  xy: 1300, 1628
+  xy: 1366, 1358
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh3
   rotate: false
-  xy: 1300, 1628
+  xy: 1366, 1358
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh3
   rotate: false
-  xy: 1300, 1530
+  xy: 1366, 1260
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/coprunhigh3
   rotate: false
-  xy: 1300, 1530
+  xy: 1366, 1260
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/conrunhigh3
   rotate: false
-  xy: 1300, 1432
+  xy: 1366, 1162
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/coprunhigh3
   rotate: false
-  xy: 1300, 1432
+  xy: 1366, 1162
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/conrunhigh3
   rotate: false
-  xy: 1300, 1334
+  xy: 1236, 780
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/conrunhigh3
   rotate: false
-  xy: 1300, 1334
+  xy: 1236, 780
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 8
 gameanimations/constandhigh3
   rotate: false
-  xy: 1300, 1334
+  xy: 1236, 780
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh3
   rotate: false
-  xy: 1300, 1334
-  size: 96, 96
-  orig: 96, 96
-  offset: 0, 0
-  index: 3
-gameanimations/coprunhigh3
-  rotate: false
-  xy: 1300, 1334
+  xy: 1236, 780
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 8
+gameanimations/coprunhigh3
+  rotate: false
+  xy: 1236, 780
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 3
 gameanimations/copstandhigh3
   rotate: false
-  xy: 1300, 1334
+  xy: 1236, 780
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh3
   rotate: false
-  xy: 1300, 1236
+  xy: 1236, 682
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/coprunhigh3
   rotate: false
-  xy: 1300, 1236
+  xy: 1236, 682
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/conrunhigh3
   rotate: false
-  xy: 1354, 1138
+  xy: 1236, 584
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/coprunhigh3
   rotate: false
-  xy: 1354, 1138
+  xy: 1236, 584
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/conrunhigh3
   rotate: false
-  xy: 1398, 1922
+  xy: 1236, 486
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/coprunhigh3
   rotate: false
-  xy: 1398, 1922
+  xy: 1236, 486
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/conrunhigh3
   rotate: false
-  xy: 1398, 1824
+  xy: 1236, 388
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/coprunhigh3
   rotate: false
-  xy: 1398, 1824
+  xy: 1236, 388
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/conrunhigh4
   rotate: false
-  xy: 1398, 1726
+  xy: 1236, 290
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh4
   rotate: false
-  xy: 1398, 1726
+  xy: 1236, 290
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh4
   rotate: false
-  xy: 1398, 1628
+  xy: 1236, 192
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/coprunhigh4
   rotate: false
-  xy: 1398, 1628
+  xy: 1236, 192
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/conrunhigh4
   rotate: false
-  xy: 1398, 1530
+  xy: 1276, 94
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/coprunhigh4
   rotate: false
-  xy: 1398, 1530
+  xy: 1276, 94
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/conrunhigh4
   rotate: false
-  xy: 1398, 1432
+  xy: 1334, 966
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/constandhigh4
   rotate: false
-  xy: 1398, 1432
+  xy: 1334, 966
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh4
   rotate: false
-  xy: 1398, 1432
+  xy: 1334, 966
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/copstandhigh4
   rotate: false
-  xy: 1398, 1432
+  xy: 1334, 966
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh4
   rotate: false
-  xy: 1398, 1334
+  xy: 1376, 1064
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/coprunhigh4
   rotate: false
-  xy: 1398, 1334
+  xy: 1376, 1064
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/conrunhigh4
   rotate: false
-  xy: 1398, 1236
+  xy: 1464, 1750
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/coprunhigh4
   rotate: false
-  xy: 1398, 1236
+  xy: 1464, 1750
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/conrunhigh4
   rotate: false
-  xy: 1452, 1138
+  xy: 1508, 1946
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/coprunhigh4
   rotate: false
-  xy: 1452, 1138
+  xy: 1508, 1946
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/conrunhigh4
   rotate: false
-  xy: 1496, 1922
+  xy: 1508, 1848
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/coprunhigh4
   rotate: false
-  xy: 1496, 1922
+  xy: 1508, 1848
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/conrunhigh5
   rotate: false
-  xy: 1496, 1824
+  xy: 1464, 1652
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh5
   rotate: false
-  xy: 1496, 1824
+  xy: 1464, 1652
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh5
   rotate: false
-  xy: 1496, 1726
+  xy: 1464, 1554
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/coprunhigh5
   rotate: false
-  xy: 1496, 1726
+  xy: 1464, 1554
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/conrunhigh5
   rotate: false
-  xy: 1496, 1628
+  xy: 1464, 1456
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/coprunhigh5
   rotate: false
-  xy: 1496, 1628
+  xy: 1464, 1456
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/conrunhigh5
   rotate: false
-  xy: 1496, 1530
+  xy: 1464, 1358
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/constandhigh5
   rotate: false
-  xy: 1496, 1530
+  xy: 1464, 1358
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh5
   rotate: false
-  xy: 1496, 1530
+  xy: 1464, 1358
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/copstandhigh5
   rotate: false
-  xy: 1496, 1530
+  xy: 1464, 1358
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh5
   rotate: false
-  xy: 1496, 1432
+  xy: 1464, 1260
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/coprunhigh5
   rotate: false
-  xy: 1496, 1432
+  xy: 1464, 1260
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/conrunhigh5
   rotate: false
-  xy: 1496, 1334
+  xy: 1464, 1162
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/coprunhigh5
   rotate: false
-  xy: 1496, 1334
+  xy: 1464, 1162
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/conrunhigh5
   rotate: false
-  xy: 1496, 1236
+  xy: 1334, 868
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/coprunhigh5
   rotate: false
-  xy: 1496, 1236
+  xy: 1334, 868
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/conrunhigh5
   rotate: false
-  xy: 1550, 1138
+  xy: 1334, 770
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/coprunhigh5
   rotate: false
-  xy: 1550, 1138
+  xy: 1334, 770
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/conrunhigh6
   rotate: false
-  xy: 1594, 1922
+  xy: 1334, 672
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh6
   rotate: false
-  xy: 1594, 1922
+  xy: 1334, 672
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh6
   rotate: false
-  xy: 1594, 1824
+  xy: 1334, 574
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/coprunhigh6
   rotate: false
-  xy: 1594, 1824
+  xy: 1334, 574
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/conrunhigh6
   rotate: false
-  xy: 1594, 1726
+  xy: 1334, 476
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/coprunhigh6
   rotate: false
-  xy: 1594, 1726
+  xy: 1334, 476
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/conrunhigh6
   rotate: false
-  xy: 1594, 1628
+  xy: 1334, 378
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/constandhigh6
   rotate: false
-  xy: 1594, 1628
+  xy: 1334, 378
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh6
   rotate: false
-  xy: 1594, 1628
+  xy: 1334, 378
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/copstandhigh6
   rotate: false
-  xy: 1594, 1628
+  xy: 1334, 378
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh6
   rotate: false
-  xy: 1594, 1530
+  xy: 1334, 280
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/coprunhigh6
   rotate: false
-  xy: 1594, 1530
+  xy: 1334, 280
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/conrunhigh6
   rotate: false
-  xy: 1594, 1432
+  xy: 1374, 182
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/coprunhigh6
   rotate: false
-  xy: 1594, 1432
+  xy: 1374, 182
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/conrunhigh6
   rotate: false
-  xy: 1594, 1334
+  xy: 1374, 84
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/coprunhigh6
   rotate: false
-  xy: 1594, 1334
+  xy: 1374, 84
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/conrunhigh6
   rotate: false
-  xy: 1594, 1236
+  xy: 1432, 966
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/coprunhigh6
   rotate: false
-  xy: 1594, 1236
+  xy: 1432, 966
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/conrunhigh7
   rotate: false
-  xy: 1648, 1138
+  xy: 1474, 1064
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh7
   rotate: false
-  xy: 1692, 1922
+  xy: 1562, 1750
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/conrunhigh7
   rotate: false
-  xy: 1692, 1824
+  xy: 1606, 1946
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/conrunhigh7
   rotate: false
-  xy: 1692, 1726
+  xy: 1606, 1848
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/constandhigh7
   rotate: false
-  xy: 1692, 1726
+  xy: 1606, 1848
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh7
   rotate: false
-  xy: 1692, 1628
+  xy: 1562, 1652
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/conrunhigh7
   rotate: false
-  xy: 1692, 1530
+  xy: 1562, 1554
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/conrunhigh7
   rotate: false
-  xy: 1692, 1432
+  xy: 1562, 1456
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/conrunhigh7
   rotate: false
-  xy: 1692, 1334
+  xy: 1562, 1358
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/conrunhigh8
   rotate: false
-  xy: 1692, 1236
+  xy: 1562, 1260
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh8
   rotate: false
-  xy: 1692, 1236
+  xy: 1562, 1260
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh8
   rotate: false
-  xy: 1746, 1138
+  xy: 1562, 1162
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/coprunhigh8
   rotate: false
-  xy: 1746, 1138
+  xy: 1562, 1162
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/conrunhigh8
   rotate: false
-  xy: 1790, 1922
+  xy: 1432, 868
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/coprunhigh8
   rotate: false
-  xy: 1790, 1922
+  xy: 1432, 868
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/conrunhigh8
   rotate: false
-  xy: 1790, 1824
+  xy: 1432, 770
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/constandhigh8
   rotate: false
-  xy: 1790, 1824
+  xy: 1432, 770
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh8
   rotate: false
-  xy: 1790, 1824
+  xy: 1432, 770
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/copstandhigh8
   rotate: false
-  xy: 1790, 1824
+  xy: 1432, 770
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh8
   rotate: false
-  xy: 1790, 1726
+  xy: 1432, 672
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/coprunhigh8
   rotate: false
-  xy: 1790, 1726
+  xy: 1432, 672
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/conrunhigh8
   rotate: false
-  xy: 1790, 1628
+  xy: 1432, 574
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/coprunhigh8
   rotate: false
-  xy: 1790, 1628
+  xy: 1432, 574
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/conrunhigh8
   rotate: false
-  xy: 1790, 1530
+  xy: 1432, 476
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/coprunhigh8
   rotate: false
-  xy: 1790, 1530
+  xy: 1432, 476
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/conrunhigh8
   rotate: false
-  xy: 1790, 1432
+  xy: 1432, 378
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/coprunhigh8
   rotate: false
-  xy: 1790, 1432
+  xy: 1432, 378
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/conrunhigh9
   rotate: false
-  xy: 1790, 1334
+  xy: 1432, 280
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh9
   rotate: false
-  xy: 1790, 1236
+  xy: 1472, 182
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/conrunhigh9
   rotate: false
-  xy: 1844, 1138
+  xy: 1472, 84
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/conrunhigh9
   rotate: false
-  xy: 1888, 1922
+  xy: 1530, 966
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/constandhigh9
   rotate: false
-  xy: 1888, 1922
+  xy: 1530, 966
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunhigh9
   rotate: false
-  xy: 1888, 1824
+  xy: 1572, 1064
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/conrunhigh9
   rotate: false
-  xy: 1888, 1726
+  xy: 1660, 1750
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/conrunhigh9
   rotate: false
-  xy: 1888, 1628
+  xy: 1704, 1946
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/conrunhigh9
   rotate: false
-  xy: 1888, 1530
+  xy: 1704, 1848
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/conrunlow0
   rotate: false
-  xy: 1888, 1432
+  xy: 1660, 1652
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunlow0
   rotate: false
-  xy: 1888, 1334
+  xy: 1660, 1554
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/conrunlow0
   rotate: false
-  xy: 1888, 1236
+  xy: 1660, 1456
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/conrunlow0
   rotate: false
-  xy: 1888, 1236
+  xy: 1660, 1456
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/conrunlow0
   rotate: false
-  xy: 1888, 1236
-  size: 96, 96
-  orig: 96, 96
-  offset: 0, 0
-  index: 3
-gameanimations/conrunlow0
-  rotate: false
-  xy: 1888, 1236
+  xy: 1660, 1456
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/conrunlow0
   rotate: false
-  xy: 1888, 1236
+  xy: 1660, 1456
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 8
+gameanimations/conrunlow0
+  rotate: false
+  xy: 1660, 1456
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 3
 gameanimations/constandlow0
   rotate: false
-  xy: 1888, 1236
+  xy: 1660, 1456
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/construgglemid0
   rotate: false
-  xy: 1888, 1236
+  xy: 1660, 1456
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunlow0
   rotate: false
-  xy: 1888, 1236
-  size: 96, 96
-  orig: 96, 96
-  offset: 0, 0
-  index: 6
-gameanimations/coprunlow0
-  rotate: false
-  xy: 1888, 1236
-  size: 96, 96
-  orig: 96, 96
-  offset: 0, 0
-  index: 3
-gameanimations/coprunlow0
-  rotate: false
-  xy: 1888, 1236
+  xy: 1660, 1456
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/coprunlow0
   rotate: false
-  xy: 1888, 1236
+  xy: 1660, 1456
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
+gameanimations/coprunlow0
+  rotate: false
+  xy: 1660, 1456
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 6
+gameanimations/coprunlow0
+  rotate: false
+  xy: 1660, 1456
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 3
 gameanimations/copstandlow0
   rotate: false
-  xy: 1888, 1236
+  xy: 1660, 1456
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunlow0
   rotate: false
-  xy: 1942, 1138
+  xy: 1660, 1358
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/conrunlow0
   rotate: false
-  xy: 766, 1040
+  xy: 1660, 1260
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/conrunmid0
   rotate: false
-  xy: 864, 1040
+  xy: 1660, 1162
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/conrunmid0
   rotate: false
-  xy: 962, 1040
+  xy: 1530, 868
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/conrunmid0
   rotate: false
-  xy: 1060, 1040
+  xy: 1530, 770
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/conrunmid0
   rotate: false
-  xy: 1158, 1040
+  xy: 1530, 672
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/conrunmid0
   rotate: false
-  xy: 1256, 1040
+  xy: 1530, 574
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/conrunmid0
   rotate: false
-  xy: 1354, 1040
+  xy: 1530, 476
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/conrunmid0
   rotate: false
-  xy: 1452, 1040
+  xy: 1530, 378
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/conrunmid0
   rotate: false
-  xy: 1550, 1040
+  xy: 1530, 280
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/constandmid0
   rotate: false
-  xy: 1648, 1040
+  xy: 1570, 182
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/construgglehigh0
   rotate: false
-  xy: 1746, 1040
+  xy: 1570, 84
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/construgglehigh0
   rotate: false
-  xy: 1844, 1040
+  xy: 1628, 966
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/construgglehigh0
   rotate: false
-  xy: 1942, 1040
+  xy: 1670, 1064
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/construgglehigh0
   rotate: false
-  xy: 766, 942
+  xy: 1758, 1750
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/construgglehigh0
   rotate: false
-  xy: 864, 942
+  xy: 1802, 1946
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/construgglehigh0
   rotate: false
-  xy: 962, 942
+  xy: 1802, 1848
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/construgglehigh0
   rotate: false
-  xy: 1060, 942
+  xy: 1758, 1652
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/construgglehigh0
   rotate: false
-  xy: 1158, 942
+  xy: 1758, 1554
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/construgglehigh1
   rotate: false
-  xy: 864, 746
+  xy: 1866, 1064
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/construgglehigh1
   rotate: false
-  xy: 962, 746
+  xy: 1726, 868
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/construgglehigh1
   rotate: false
-  xy: 1060, 746
+  xy: 1726, 770
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/construgglehigh1
   rotate: false
-  xy: 1158, 746
+  xy: 1726, 672
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/construgglehigh1
   rotate: false
-  xy: 1256, 746
+  xy: 1726, 574
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/construgglehigh1
   rotate: false
-  xy: 1354, 746
+  xy: 1726, 476
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/construgglehigh1
   rotate: false
-  xy: 1452, 746
+  xy: 1726, 378
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/construgglehigh1
   rotate: false
-  xy: 1550, 746
+  xy: 1726, 280
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/construgglehigh10
   rotate: false
-  xy: 1256, 942
+  xy: 1758, 1456
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/construgglehigh10
   rotate: false
-  xy: 1354, 942
+  xy: 1758, 1358
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/construgglehigh10
   rotate: false
-  xy: 1452, 942
+  xy: 1758, 1260
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/construgglehigh10
   rotate: false
-  xy: 1550, 942
+  xy: 1758, 1162
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/construgglehigh10
   rotate: false
-  xy: 1648, 942
+  xy: 1628, 868
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/construgglehigh10
   rotate: false
-  xy: 1746, 942
+  xy: 1628, 770
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/construgglehigh10
   rotate: false
-  xy: 1844, 942
+  xy: 1628, 672
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/construgglehigh10
   rotate: false
-  xy: 1942, 942
+  xy: 1628, 574
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/construgglehigh11
   rotate: false
-  xy: 766, 844
+  xy: 1628, 476
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/construgglehigh11
   rotate: false
-  xy: 864, 844
+  xy: 1628, 378
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/construgglehigh11
   rotate: false
-  xy: 962, 844
+  xy: 1628, 280
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/construgglehigh11
   rotate: false
-  xy: 1060, 844
+  xy: 1668, 182
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/construgglehigh11
   rotate: false
-  xy: 1158, 844
+  xy: 1668, 84
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/construgglehigh11
   rotate: false
-  xy: 1256, 844
+  xy: 1726, 966
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/construgglehigh11
   rotate: false
-  xy: 1354, 844
+  xy: 1768, 1064
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/construgglehigh11
   rotate: false
-  xy: 1452, 844
+  xy: 1856, 1750
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/construgglehigh12
   rotate: false
-  xy: 1550, 844
+  xy: 1900, 1946
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/construgglehigh12
   rotate: false
-  xy: 1648, 844
+  xy: 1900, 1848
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/construgglehigh12
   rotate: false
-  xy: 1746, 844
+  xy: 1856, 1652
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/construgglehigh12
   rotate: false
-  xy: 1844, 844
+  xy: 1856, 1554
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/construgglehigh12
   rotate: false
-  xy: 1942, 844
+  xy: 1856, 1456
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/construgglehigh12
   rotate: false
-  xy: 766, 746
+  xy: 1856, 1358
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/construgglehigh12
   rotate: false
-  xy: 570, 688
+  xy: 1856, 1260
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/construgglehigh12
   rotate: false
-  xy: 668, 688
+  xy: 1856, 1162
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/construgglehigh2
   rotate: false
-  xy: 1648, 746
+  xy: 1766, 182
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/construgglehigh2
   rotate: false
-  xy: 1746, 746
+  xy: 1766, 84
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/construgglehigh2
   rotate: false
-  xy: 1844, 746
+  xy: 1824, 966
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/construgglehigh2
   rotate: false
-  xy: 1942, 746
+  xy: 1922, 966
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/construgglehigh2
   rotate: false
-  xy: 766, 648
+  xy: 1824, 868
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/construgglehigh2
   rotate: false
-  xy: 570, 590
+  xy: 1922, 868
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/construgglehigh2
   rotate: false
-  xy: 668, 590
+  xy: 1824, 770
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/construgglehigh2
   rotate: false
-  xy: 864, 648
+  xy: 1922, 770
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/construgglehigh3
   rotate: false
-  xy: 962, 648
+  xy: 1824, 672
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/construgglehigh3
   rotate: false
-  xy: 1060, 648
+  xy: 1824, 574
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/construgglehigh3
   rotate: false
-  xy: 1158, 648
+  xy: 1824, 476
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/construgglehigh3
   rotate: false
-  xy: 1256, 648
+  xy: 1824, 378
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/construgglehigh3
   rotate: false
-  xy: 1354, 648
+  xy: 1824, 280
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/construgglehigh3
   rotate: false
-  xy: 1452, 648
+  xy: 1864, 182
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/construgglehigh3
   rotate: false
-  xy: 1550, 648
+  xy: 1864, 84
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/construgglehigh3
   rotate: false
-  xy: 1648, 648
+  xy: 1922, 672
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/construgglehigh4
   rotate: false
-  xy: 1746, 648
+  xy: 1922, 574
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/construgglehigh4
   rotate: false
-  xy: 1844, 648
+  xy: 1922, 476
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/construgglehigh4
   rotate: false
-  xy: 1942, 648
+  xy: 1922, 378
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/construgglehigh4
   rotate: false
-  xy: 766, 550
+  xy: 1922, 280
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
+gameanimations/mike_ey
+  rotate: false
+  xy: 2, 952
+  size: 784, 1090
+  orig: 784, 1090
+  offset: 0, 0
+  index: -1
+
+main4.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
 gameanimations/construgglehigh4
   rotate: false
-  xy: 570, 492
+  xy: 2, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/construgglehigh4
   rotate: false
-  xy: 668, 492
+  xy: 2, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/construgglehigh4
   rotate: false
-  xy: 864, 550
+  xy: 100, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/construgglehigh4
   rotate: false
-  xy: 962, 550
+  xy: 2, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/construgglehigh5
   rotate: false
-  xy: 1060, 550
+  xy: 100, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/construgglehigh5
   rotate: false
-  xy: 1158, 550
+  xy: 198, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/construgglehigh5
   rotate: false
-  xy: 1256, 550
+  xy: 2, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/construgglehigh5
   rotate: false
-  xy: 1354, 550
+  xy: 100, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/construgglehigh5
   rotate: false
-  xy: 1452, 550
+  xy: 198, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/construgglehigh5
   rotate: false
-  xy: 1550, 550
+  xy: 296, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/construgglehigh5
   rotate: false
-  xy: 1648, 550
+  xy: 2, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/construgglehigh5
   rotate: false
-  xy: 1746, 550
+  xy: 100, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/construgglehigh6
   rotate: false
-  xy: 1844, 550
+  xy: 198, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/construgglehigh6
   rotate: false
-  xy: 1942, 550
+  xy: 296, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/construgglehigh6
   rotate: false
-  xy: 766, 452
+  xy: 394, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/construgglehigh6
   rotate: false
-  xy: 570, 394
+  xy: 100, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/construgglehigh6
   rotate: false
-  xy: 668, 394
+  xy: 198, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/construgglehigh6
   rotate: false
-  xy: 864, 452
+  xy: 296, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/construgglehigh6
   rotate: false
-  xy: 962, 452
+  xy: 394, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/construgglehigh6
   rotate: false
-  xy: 1060, 452
+  xy: 492, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/construgglehigh7
   rotate: false
-  xy: 1158, 452
+  xy: 198, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/construgglehigh7
   rotate: false
-  xy: 1256, 452
+  xy: 296, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/construgglehigh7
   rotate: false
-  xy: 1354, 452
+  xy: 394, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/construgglehigh7
   rotate: false
-  xy: 1452, 452
+  xy: 492, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/construgglehigh7
   rotate: false
-  xy: 1550, 452
+  xy: 590, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/construgglehigh7
   rotate: false
-  xy: 1648, 452
+  xy: 296, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/construgglehigh7
   rotate: false
-  xy: 1746, 452
+  xy: 394, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/construgglehigh7
   rotate: false
-  xy: 1844, 452
+  xy: 492, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/construgglehigh8
   rotate: false
-  xy: 1942, 452
+  xy: 590, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/construgglehigh8
   rotate: false
-  xy: 766, 354
+  xy: 688, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/construgglehigh8
   rotate: false
-  xy: 570, 296
+  xy: 394, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/construgglehigh8
   rotate: false
-  xy: 668, 296
+  xy: 492, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/construgglehigh8
   rotate: false
-  xy: 864, 354
+  xy: 590, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/construgglehigh8
   rotate: false
-  xy: 962, 354
+  xy: 688, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/construgglehigh8
   rotate: false
-  xy: 1060, 354
+  xy: 786, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/construgglehigh8
   rotate: false
-  xy: 1158, 354
+  xy: 492, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/construgglehigh9
   rotate: false
-  xy: 1256, 354
+  xy: 590, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/construgglehigh9
   rotate: false
-  xy: 1354, 354
+  xy: 688, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/construgglehigh9
   rotate: false
-  xy: 1452, 354
+  xy: 786, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/construgglehigh9
   rotate: false
-  xy: 1550, 354
+  xy: 884, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/construgglehigh9
   rotate: false
-  xy: 1648, 354
+  xy: 590, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/construgglehigh9
   rotate: false
-  xy: 1746, 354
+  xy: 688, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/construgglehigh9
   rotate: false
-  xy: 1844, 354
+  xy: 786, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/construgglehigh9
   rotate: false
-  xy: 1942, 354
+  xy: 884, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/construgglelow0
   rotate: false
-  xy: 766, 256
+  xy: 982, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/construgglelow0
   rotate: false
-  xy: 570, 198
+  xy: 688, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/construgglelow0
   rotate: false
-  xy: 668, 198
+  xy: 786, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/construgglelow0
   rotate: false
-  xy: 864, 256
+  xy: 884, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/construgglelow0
   rotate: false
-  xy: 962, 256
+  xy: 982, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/construgglelow0
   rotate: false
-  xy: 1060, 256
+  xy: 1080, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/construgglelow0
   rotate: false
-  xy: 1158, 256
+  xy: 786, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/construgglelow0
   rotate: false
-  xy: 1256, 256
+  xy: 884, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/coppunch0
   rotate: false
-  xy: 1354, 256
+  xy: 982, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh10
   rotate: false
-  xy: 1452, 256
+  xy: 1080, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh10
   rotate: false
-  xy: 1550, 256
+  xy: 1178, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/coprunhigh10
   rotate: false
-  xy: 1648, 256
+  xy: 884, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/coprunhigh10
   rotate: false
-  xy: 1746, 256
+  xy: 982, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/copstandhigh10
   rotate: false
-  xy: 1746, 256
+  xy: 982, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh10
   rotate: false
-  xy: 1844, 256
+  xy: 1080, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/coprunhigh10
   rotate: false
-  xy: 1942, 256
+  xy: 1178, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/coprunhigh10
   rotate: false
-  xy: 766, 158
+  xy: 1276, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/coprunhigh10
   rotate: false
-  xy: 570, 100
+  xy: 982, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/coprunhigh11
   rotate: false
-  xy: 668, 100
+  xy: 1080, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh11
   rotate: false
-  xy: 864, 158
+  xy: 1178, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/coprunhigh11
   rotate: false
-  xy: 962, 158
+  xy: 1276, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/coprunhigh11
   rotate: false
-  xy: 1060, 158
+  xy: 1374, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/coprunhigh11
   rotate: false
-  xy: 1158, 158
+  xy: 1080, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/coprunhigh11
   rotate: false
-  xy: 1256, 158
+  xy: 1178, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/coprunhigh11
   rotate: false
-  xy: 1354, 158
+  xy: 1276, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/coprunhigh7
   rotate: false
-  xy: 1452, 158
+  xy: 1374, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh7
   rotate: false
-  xy: 1550, 158
+  xy: 1472, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/coprunhigh7
   rotate: false
-  xy: 1648, 158
+  xy: 1178, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/coprunhigh7
   rotate: false
-  xy: 1746, 158
+  xy: 1276, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/copstandhigh7
   rotate: false
-  xy: 1746, 158
+  xy: 1276, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh7
   rotate: false
-  xy: 1844, 158
+  xy: 1374, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/coprunhigh7
   rotate: false
-  xy: 1942, 158
+  xy: 1472, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/coprunhigh7
   rotate: false
-  xy: 766, 60
+  xy: 1570, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/coprunhigh7
   rotate: false
-  xy: 570, 2
+  xy: 1276, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/coprunhigh9
   rotate: false
-  xy: 668, 2
+  xy: 1374, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh9
   rotate: false
-  xy: 864, 60
+  xy: 1472, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/coprunhigh9
   rotate: false
-  xy: 962, 60
+  xy: 1570, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/coprunhigh9
   rotate: false
-  xy: 1060, 60
+  xy: 1668, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/copstandhigh9
   rotate: false
-  xy: 1060, 60
+  xy: 1668, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunhigh9
   rotate: false
-  xy: 1158, 60
+  xy: 1374, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/coprunhigh9
   rotate: false
-  xy: 1256, 60
+  xy: 1472, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/coprunhigh9
   rotate: false
-  xy: 1354, 60
+  xy: 1570, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/coprunhigh9
   rotate: false
-  xy: 1452, 60
+  xy: 1668, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/coprunlow0
   rotate: false
-  xy: 1550, 60
+  xy: 1766, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 gameanimations/coprunlow0
   rotate: false
-  xy: 1648, 60
+  xy: 1472, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/coprunlow0
   rotate: false
-  xy: 1746, 60
+  xy: 1570, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/coprunlow0
   rotate: false
-  xy: 1844, 60
+  xy: 1668, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/coprunmid0
   rotate: false
-  xy: 1942, 60
+  xy: 1766, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
-
-main3.png
-size: 1024,128
-format: RGBA8888
-filter: Nearest,Nearest
-repeat: none
 gameanimations/coprunmid0
   rotate: false
-  xy: 2, 2
+  xy: 1864, 394
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 1
 gameanimations/coprunmid0
   rotate: false
-  xy: 100, 2
+  xy: 1570, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 2
 gameanimations/coprunmid0
   rotate: false
-  xy: 198, 2
+  xy: 1668, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 3
 gameanimations/coprunmid0
   rotate: false
-  xy: 296, 2
+  xy: 1766, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 4
 gameanimations/coprunmid0
   rotate: false
-  xy: 394, 2
+  xy: 1864, 296
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 5
 gameanimations/coprunmid0
   rotate: false
-  xy: 492, 2
+  xy: 1668, 2
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 6
 gameanimations/coprunmid0
   rotate: false
-  xy: 590, 2
+  xy: 1766, 100
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 7
 gameanimations/copstandmid0
   rotate: false
-  xy: 688, 2
+  xy: 1864, 198
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: 0
 
-main4.png
+main5.png
 size: 1024,512
 format: RGBA8888
 filter: Nearest,Nearest
@@ -4370,7 +4390,7 @@ overlayanimations/targeter
   offset: 0, 0
   index: 1
 
-main5.png
+main6.png
 size: 2048,1024
 format: RGBA8888
 filter: Nearest,Nearest
